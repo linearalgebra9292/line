@@ -1,2 +1,2 @@
-team member's git hub address
-[linear algebra workspace](https://github.com/Ryu-Yongju/Linear-Algebra-2.git)https://github.com/Ryu-Yongju/Linear-Algebra-2.git
+팀원 깃허브 주소입니다.
+https://github.com/Ryu-Yongju/Linear-Algebra-2.git
